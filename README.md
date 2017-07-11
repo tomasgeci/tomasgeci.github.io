@@ -19,3 +19,8 @@
 <center>
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
 </center>
+
+### HAM satellite links ###
+- [QRadioPredict](http://qradiopredict.sourceforge.net/)
+- [Orbitron](http://www.stoff.pl/)
+- [GPredict](http://gpredict.oz9aec.net/)
