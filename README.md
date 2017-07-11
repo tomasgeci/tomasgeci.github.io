@@ -10,3 +10,12 @@
 - [HamSQL solar](http://www.hamqsl.com/solar.html)
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
 - [Repeaters SK](https://sites.google.com/site/prevadzace/)
+- [FM pohar OK](http://fmpohar.nagano.cz/prop.php)
+- [Radioamaterske zavody OK](http://www.ok1pmp.eu/radioamaterske-zavody/)
+- [Moon contest VHF/UHF OK](http://ok2vbz.waypoint.cz/mc/podminky/)
+- [DL2NBY Contest calendar](https://sites.google.com/site/dl2nbycontestcalendar/)
+
+### HF propagation ###
+<center>
+<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solarvhf.php"></a>
+</center>
