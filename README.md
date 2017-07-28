@@ -15,6 +15,19 @@
 - [Moon contest VHF/UHF OK](http://ok2vbz.waypoint.cz/mc/podminky/)
 - [DL2NBY Contest calendar](https://sites.google.com/site/dl2nbycontestcalendar/)
 
+### SOTA WWFF Links ###
+- [OMFF](http://omff.wz.sk/)
+- [HIKING MAPS](https://mapy.hiking.sk/)
+- [OM SOTA](http://sota.telesweb.sk/)
+- [SOTA](http://sota.org.uk/)
+- [SOTADATA](http://sotadata.org.uk/)
+- [SOTAMAPS](http://www.sotamaps.org)
+- [SOTA WATCH](http://www.sotawatch.org/)
+- [WWFF](http://wwff.co/)
+
+### Clusters ###
+- [DX SUMMIT](http://dxsummit.fi)
+
 ### HF propagation ###
 <center>
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
