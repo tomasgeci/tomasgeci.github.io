@@ -12,6 +12,7 @@
 - [SOTA](http://sota.org.uk/)
 - [SOTADATA](http://sotadata.org.uk/)
 - [SOTAMAPS](http://www.sotamaps.org)
+- [SOTA ADIF CONVERTER](http://www.sotamaps.org/extras.php) 
 - [SOTA WATCH](http://www.sotawatch.org/)
 - [WWFF](http://wwff.co/)
 
