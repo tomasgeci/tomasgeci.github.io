@@ -15,12 +15,22 @@
 - [SOTA ADIF CONVERTER](http://www.sotamaps.org/extras.php) 
 - [SOTA WATCH](http://www.sotawatch.org/)
 - [WWFF](http://wwff.co/)
+- [WWFF Directory](http://wwff.co/directory/)
+- [Saisie Sota FR](http://www.sota-france.fr/articles.php?lng=fr&pg=140&mnuid=72&tconfig=0)
 
 ### Clusters ###
 - [DX SUMMIT](http://dxsummit.fi)
+- [WWFF dx cluster](http://wwff.co/dx-cluster/)
+
+### Spotting ###
+- [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
+
+### Maps and Weather ###
+- [YR.NO](https://www.yr.no/?spr=eng)
+- [Meteoblue](https://www.meteoblue.com)
+- [Hory.sk - weather](http://www.hory.sk/pocasie.html)
 
 ### Other links ###
-
 - [CQ DMR MAP](http://www.cqdmrmap.com/)
 - [ES MUF MAP](http://mmmonvhf.de/mufmap.php)
 - [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm)
