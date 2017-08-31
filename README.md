@@ -7,6 +7,7 @@
 
 ### SOTA WWFF Links ###
 - [OMFF](http://omff.wz.sk/)
+- [OMFF denniky](http://omff.wz.sk/html/denik.html)
 - [HIKING MAPS](https://mapy.hiking.sk/)
 - [OM SOTA](http://sota.telesweb.sk/)
 - [SOTA](http://sota.org.uk/)
@@ -16,6 +17,7 @@
 - [SOTA WATCH](http://www.sotawatch.org/)
 - [WWFF](http://wwff.co/)
 - [WWFF Directory](http://wwff.co/directory/)
+- [WWFF logging](http://wwff.co/rules-faq/confirming-and-sending-log/)
 - [Saisie Sota FR](http://www.sota-france.fr/articles.php?lng=fr&pg=140&mnuid=72&tconfig=0)
 
 ### Clusters ###
