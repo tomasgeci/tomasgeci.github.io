@@ -24,6 +24,8 @@
 - [DX SUMMIT](http://dxsummit.fi)
 - [WWFF dx cluster](http://wwff.co/dx-cluster/)
 - [WWFF simple](http://wwff.cqgma.net/ww1016.php)
+- [PSKreporter](https://www.pskreporter.info/pskmap.html)
+- [Hamspots - digi](http://hamspots.net)
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
