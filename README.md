@@ -27,8 +27,8 @@
 - [PSKreporter](https://www.pskreporter.info/pskmap.html)
 - [Hamspots - digi](http://hamspots.net)
 ### Clusters Telnet ###
-- [GB7MBC real-time cluster](telnet://gb7mbc.spoo.org:8000)
-- [HRD real-time cluster](telnet://194.191.19.121:7300) or (telnet://hrd_cluster.ham-radio.ch:7300)
+- [GB7MBC real-time cluster] - telnet://gb7mbc.spoo.org:8000 
+- [HRD real-time cluster] - telnet://194.191.19.121:7300 or telnet://hrd_cluster.ham-radio.ch:7300
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
