@@ -30,6 +30,7 @@
 ### Clusters Telnet ###
 - [GB7MBC real-time cluster] - telnet://gb7mbc.spoo.org:8000 
 - [HRD real-time cluster] - telnet://194.191.19.121:7300 or telnet://hrd_cluster.ham-radio.ch:7300
+- [Telnet clusters](https://www.ng3k.com/Misc/cluster.html)
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
