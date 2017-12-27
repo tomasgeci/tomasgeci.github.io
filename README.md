@@ -27,6 +27,10 @@
 - [PSKreporter](https://www.pskreporter.info/pskmap.html)
 - [Hamspots - digi](http://hamspots.net)
 - [DX Watch](https://www.dxwatch.com)
+- [DX Heat](https://dxheat.com/dxc/)
+- [HB9FA](http://www.hb9fa.ch/dx-cluster.html)
+- [DX galaxy](http://www.dxgalaxy.com)
+
 ### Clusters Telnet ###
 - [GB7MBC real-time cluster] - telnet://gb7mbc.spoo.org:8000 
 - [HRD real-time cluster] - telnet://194.191.19.121:7300 or telnet://hrd_cluster.ham-radio.ch:7300
@@ -52,6 +56,7 @@
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
 - [Repeaters SK](https://sites.google.com/site/prevadzace/)
 - [FM pohar OK](http://fmpohar.nagano.cz/prop.php)
+- [SSB liga OK/OM](http://ssbliga.nagano.cz)
 - [Radioamaterske zavody OK](http://www.ok1pmp.eu/radioamaterske-zavody/)
 - [Moon contest VHF/UHF OK](http://ok2vbz.waypoint.cz/mc/podminky/)
 - [DL2NBY Contest calendar](https://sites.google.com/site/dl2nbycontestcalendar/)
@@ -60,3 +65,8 @@
 - [QRadioPredict](http://qradiopredict.sourceforge.net/)
 - [Orbitron](http://www.stoff.pl/)
 - [GPredict](http://gpredict.oz9aec.net/)
+
+### Contest calendars ###
+- [WA7BNM](http://www.contestcalendar.com/contestcal.html)
+- [SK3BG](http://www.sk3bg.se/contest/)
+- [DL2NBY](https://sites.google.com/site/dl2nbycontestcalendar/)
