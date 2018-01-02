@@ -65,6 +65,12 @@
 - [QRadioPredict](http://qradiopredict.sourceforge.net/)
 - [Orbitron](http://www.stoff.pl/)
 - [GPredict](http://gpredict.oz9aec.net/)
+- [FM Sat Frequencies](https://www.amsat.org/fm-satellite-frequency-summary/)
+- [Amsat On-line prediction](http://www.amsat.org/track/index.php)
+- [Amsat satellite list](https://www.amsat.org/two-way-satellites/)
+- [Amsat status](http://www.amsat.org/status/)
+- [Heavens Above](http://heavens-above.com/AmateurSats.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT)
+- [Saudisat 1C - SO-50](http://www.satview.org/?sat_id=27607U)
 
 ### Contest calendars ###
 - [WA7BNM](http://www.contestcalendar.com/contestcal.html)
