@@ -5,6 +5,9 @@
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
 </center>
 
+### Beacons ###
+- [NCDXF](http://www.ncdxf.org/beacon/)
+
 ### SOTA WWFF Links ###
 - [OMFF](http://omff.wz.sk/)
 - [OMFF denniky](http://omff.wz.sk/html/denik.html)
