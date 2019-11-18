@@ -12,6 +12,7 @@
 - [ssb-liga](https://github.com/tomasgeci/n1mm-ssb-liga)
 
 ### SOTA WWFF Links ###
+- [SOTLAS](https://sotl.as/map)
 - [OMFF](http://omff.wz.sk/)
 - [OMFF denniky](http://omff.wz.sk/html/denik.html)
 - [HIKING MAPS](https://mapy.hiking.sk/)
