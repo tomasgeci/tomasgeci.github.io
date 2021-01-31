@@ -26,6 +26,7 @@
 - [WWFF Directory](http://wwff.co/directory/)
 - [WWFF logging](http://wwff.co/rules-faq/confirming-and-sending-log/)
 - [Saisie Sota FR](http://www.sota-france.fr/articles.php?lng=fr&pg=140&mnuid=72&tconfig=0)
+- [HEMA](http://hema.org.uk/)
 
 ### Clusters ###
 - [DX SUMMIT](http://dxsummit.fi)
