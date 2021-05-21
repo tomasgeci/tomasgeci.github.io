@@ -2,11 +2,12 @@
 
 ### HF propagation ###
 <center>
-  <script>alert("test");</script>
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
 </center>
 
-### DX
+### DX fun cluster ###
+<IFRAME marginWidth=0 marginHeight=0 src=https://www.dxfuncluster.com/cluster_new.html frameBorder=0 scrolling=no width=490 height=320>
+</IFRAME>
 
 ### Beacons ###
 - [NCDXF](http://www.ncdxf.org/beacon/)
