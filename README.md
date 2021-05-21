@@ -6,8 +6,10 @@
 </center>
 
 ### DX fun cluster ###
+<div>
 <IFRAME marginWidth=0 marginHeight=0 src=https://www.dxfuncluster.com/cluster_new.html frameBorder=0 scrolling=no width=490 height=320>
 </IFRAME>
+</div>
 
 ### Beacons ###
 - [NCDXF](http://www.ncdxf.org/beacon/)
