@@ -2,8 +2,11 @@
 
 ### HF propagation ###
 <center>
+  <script>alert("test");</script>
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
 </center>
+
+### DX
 
 ### Beacons ###
 - [NCDXF](http://www.ncdxf.org/beacon/)
@@ -27,6 +30,7 @@
 - [WWFF logging](http://wwff.co/rules-faq/confirming-and-sending-log/)
 - [Saisie Sota FR](http://www.sota-france.fr/articles.php?lng=fr&pg=140&mnuid=72&tconfig=0)
 - [HEMA](http://hema.org.uk/)
+- [GMA](https://www.cqgma.org/)
 
 ### Clusters ###
 - [DX SUMMIT](http://dxsummit.fi)
