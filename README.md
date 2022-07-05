@@ -65,6 +65,7 @@
 - [VOACAP Propagation](http://www.voacap.com/area/index.html)
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
 - [ITS HF Propagation tools](http://www.greg-hand.com/hfwin32.html)
+- [Solar Indices](https://www.electronics-notes.com/articles/antennas-propagation/ionospheric/solar-indices-flux-a-ap-k-kp.php)
 - [HamSQL solar](http://www.hamqsl.com/solar.html)
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
 - [Repeaters SK](https://sites.google.com/site/prevadzace/)
