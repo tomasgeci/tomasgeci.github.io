@@ -95,7 +95,6 @@
 - [OKDX foundation](https://www.okdxf.eu/)
 
 ### HAM satellite links ###
-- [QRadioPredict](http://qradiopredict.sourceforge.net/)
 - [Orbitron](http://www.stoff.pl/)
 - [GPredict](http://gpredict.oz9aec.net/)
 - [FM Sat Frequencies](https://www.amsat.org/fm-satellite-frequency-summary/)
