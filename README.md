@@ -10,8 +10,14 @@
 ### Beacons ###
 - [NCDXF](http://www.ncdxf.org/beacon/)
 
-### Contest N1MM logger configs ###
+### Contests and configs ###
 - [ssb-liga](https://github.com/tomasgeci/n1mm-ssb-liga)
+- [FM pohar OK](http://fmpohar.nagano.cz/prop.php)
+- [SSB liga OK/OM](http://ssbliga.nagano.cz)
+- [Radioamaterske zavody OK](http://www.ok1pmp.eu/radioamaterske-zavody/)
+- [Moon contest VHF/UHF OK](http://ok2vbz.waypoint.cz/mc/podminky/)
+- [IARU R1 VHF/UHF contest robot](https://iaru.oevsv.at/v_upld/prg_list.php)
+- [VKV PA contest log](https://vkvpa.hamradio.cz/index.php?str=edit_hlaseni)
 
 ### SOTA WWFF Links ###
 - [SOTLAS](https://sotl.as/map)
@@ -22,7 +28,6 @@
 - [SOTA](http://sota.org.uk/)
 - [SOTADATA](http://sotadata.org.uk/)
 - [SOTAMAPS](http://www.sotamaps.org)
-- [SOTA ADIF CONVERTER](http://www.sotamaps.org/extras.php) 
 - [SOTA WATCH](http://www.sotawatch.org/)
 - [WWFF](http://wwff.co/)
 - [WWFF Directory](http://wwff.co/directory/)
@@ -35,7 +40,6 @@
 - [DX SUMMIT](http://dxsummit.fi)
 - [WWFF dx cluster](http://wwff.co/dx-cluster/)
 - [WWFF simple](http://wwff.cqgma.net/ww1016.php)
-- [PSKreporter](https://www.pskreporter.info/pskmap.html)
 - [Hamspots - digi](http://hamspots.net)
 - [DX Watch](https://www.dxwatch.com)
 - [DX Heat](https://dxheat.com/dxc/)
@@ -55,8 +59,7 @@
 - [Meteoblue](https://www.meteoblue.com)
 - [Hory.sk - weather](http://www.hory.sk/pocasie.html)
 
-### Other links ###
-- [CQ DMR MAP](http://www.cqdmrmap.com/)
+### Other links (maps, ionograms, contest)###
 - [ES MUF MAP](http://mmmonvhf.de/mufmap.php)
 - [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm)
 - [DX Maps](http://www.dxmaps.com/spots/mapg.php?Lan=&Frec=&ML=&Map=NA&HF=&DXC=ING2&GL=)
@@ -77,11 +80,17 @@
 - [SpaceWeather](https://www.spaceweatherlive.com/en/solar-activity.html)
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
 - [Repeaters SK](https://sites.google.com/site/prevadzace/)
-- [FM pohar OK](http://fmpohar.nagano.cz/prop.php)
-- [SSB liga OK/OM](http://ssbliga.nagano.cz)
-- [Radioamaterske zavody OK](http://www.ok1pmp.eu/radioamaterske-zavody/)
-- [Moon contest VHF/UHF OK](http://ok2vbz.waypoint.cz/mc/podminky/)
-- [DL2NBY Contest calendar](https://sites.google.com/site/dl2nbycontestcalendar/)
+- [PSKreporter](https://www.pskreporter.info/pskmap.html)
+- [WSPRNET](https://www.wsprnet.org/drupal/wsprnet/map)
+
+### Personal pages
+- [OM3LU pages](https://om3lu.blogspot.com/)
+- [OM8ST pages](https://om8st.wordpress.com/)
+- [OK1IKE pages (SK)](http://ok1ike.nagano.cz/)(http://ok1ike.c-a-v.com/)
+- [OK2BUH pages](http://ok2buh.nagano.cz/)
+- [OK1HDU pages](http://599.cz/index.php)
+- [OK2FJ](https://www.radio-foto.eu/radio/index.php)
+- [OKDX foundation](https://www.okdxf.eu/)
 
 ### HAM satellite links ###
 - [QRadioPredict](http://qradiopredict.sourceforge.net/)
@@ -95,6 +104,7 @@
 - [Amsat status](http://www.amsat.org/status/)
 - [Heavens Above](http://heavens-above.com/AmateurSats.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT)
 - [Saudisat 1C - SO-50](http://www.satview.org/?sat_id=27607U)
+- [TinyGS LoRa](https://tinygs.com/)
 
 ### Contest calendars ###
 - [WA7BNM](http://www.contestcalendar.com/contestcal.html)
