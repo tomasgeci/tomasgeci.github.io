@@ -28,7 +28,7 @@
 - [SOTA](http://sota.org.uk/)
 - [SOTADATA](http://sotadata.org.uk/)
 - [SOTAMAPS](http://www.sotamaps.org)
-- [SOTA WATCH](http://www.sotawatch.org/)
+- [SOTA WATCH](https://sotawatch.sota.org.uk/en/)
 - [WWFF](http://wwff.co/)
 - [WWFF Directory](http://wwff.co/directory/)
 - [WWFF logging](http://wwff.co/rules-faq/confirming-and-sending-log/)
@@ -59,7 +59,7 @@
 - [Meteoblue](https://www.meteoblue.com)
 - [Hory.sk - weather](http://www.hory.sk/pocasie.html)
 
-### Other links (maps, ionograms, contest)###
+### Other links - maps, ionograms, propagation ###
 - [ES MUF MAP](http://mmmonvhf.de/mufmap.php)
 - [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm)
 - [DX Maps](http://www.dxmaps.com/spots/mapg.php?Lan=&Frec=&ML=&Map=NA&HF=&DXC=ING2&GL=)
@@ -86,7 +86,7 @@
 ### Personal pages
 - [OM3LU pages](https://om3lu.blogspot.com/)
 - [OM8ST pages](https://om8st.wordpress.com/)
-- [OK1IKE pages (SK)](http://ok1ike.nagano.cz/)(http://ok1ike.c-a-v.com/)
+- [OK1IKE pages](http://ok1ike.nagano.cz/)(http://ok1ike.c-a-v.com/)
 - [OK2BUH pages](http://ok2buh.nagano.cz/)
 - [OK1HDU pages](http://599.cz/index.php)
 - [OK2FJ](https://www.radio-foto.eu/radio/index.php)
