@@ -74,6 +74,7 @@
 - [ASWAS Forecast](https://www.sws.bom.gov.au/HF_Systems/6/5)
 - [ITS HF Propagation tools](http://www.greg-hand.com/hfwin32.html)
 - [Solar Indices](https://www.electronics-notes.com/articles/antennas-propagation/ionospheric/solar-indices-flux-a-ap-k-kp.php)
+- [Grey-line Propagation](https://www.electronics-notes.com/articles/antennas-propagation/ionospheric/greyline-propagation.php)
 - [HamSQL solar](http://www.hamqsl.com/solar.html)
 - [NOAA WATCH](https://www.swpc.noaa.gov/products/alerts-watches-and-warnings)
 - [NOAA Forecast](https://www.swpc.noaa.gov/forecasts)
