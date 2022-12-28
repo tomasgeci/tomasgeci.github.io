@@ -92,7 +92,7 @@
 - [OK1IKE pages 2](http://ok1ike.nagano.cz/)
 - [OK2BUH pages](http://ok2buh.nagano.cz/)
 - [OK1HDU pages](http://599.cz/index.php)
-- [OK2FJ](https://www.radio-foto.eu/radio/index.php)
+- [OK2FJ pages](https://www.radio-foto.eu/radio/index.php)
 - [OKDX foundation](https://www.okdxf.eu/)
 
 ### HAM satellite links ###
@@ -108,7 +108,18 @@
 - [Saudisat 1C - SO-50](http://www.satview.org/?sat_id=27607U)
 - [TinyGS LoRa](https://tinygs.com/)
 
-### Contest calendars ###
+### Unsorted
+- [LCWO](https://lcwo.net)
+- [DX News](https://dxnews.com)
+- [DX World](https://www.dx-world.net)
+- [Toroids data](http://toroids.info)
+- [QRZNOW](https://qrznow.com)
+
+### Contest calendars and DX expeditions ###
+- [DX Maps](https://www.dxmaps.com/dxcalendar.html)
+- [DX Expeditions](https://dxexpeditions.com)
+- [OM DX Bulletin by OM3JW](http://www.hamradio.sk/idxp/)
+- [DX World Bulletin](https://www.dx-world.net/?s=bulletin)
 - [WA7BNM](http://www.contestcalendar.com/contestcal.html)
 - [SK3BG](http://www.sk3bg.se/contest/)
 - [DL2NBY](https://sites.google.com/site/dl2nbycontestcalendar/)
