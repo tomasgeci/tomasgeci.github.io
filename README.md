@@ -46,11 +46,8 @@
 - [DX Heat](https://dxheat.com/dxc/)
 - [HB9FA](http://www.hb9fa.ch/dx-cluster.html)
 - [DX galaxy](http://www.dxgalaxy.com)
-
-### Clusters Telnet ###
-- [GB7MBC real-time cluster] - telnet://gb7mbc.spoo.org:8000 
-- [HRD real-time cluster] - telnet://194.191.19.121:7300 or telnet://hrd_cluster.ham-radio.ch:7300
-- [Telnet clusters](https://www.ng3k.com/Misc/cluster.html)
+- [Telnet clusters 1](https://www.ng3k.com/Misc/cluster.html)
+- [Telnet clusters 2](https://www.dxcluster.info/telnet/index.php)
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
@@ -68,7 +65,6 @@
 - [Ionograms](http://www.g0lfp.com/ionograms/index.php)
 - [VOACAP Propagation](http://www.voacap.com/area/index.html)
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
-- [HFpropagation](https://hfpropagation.com)
 - [SFI](https://heartlandhams.org/sfi-number/)
 - [ARES-OM HF Propagation](https://aresom.wordpress.com/sirenie-radiovych-vln/)
 - [ASWAS Forecast](https://www.sws.bom.gov.au/HF_Systems/6/5)
@@ -94,6 +90,7 @@
 - [OK1HDU pages](http://599.cz/index.php)
 - [OK2FJ pages](https://www.radio-foto.eu/radio/index.php)
 - [OKDX foundation](https://www.okdxf.eu/)
+- [G4ILO pages](http://www.g4ilo.com)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
