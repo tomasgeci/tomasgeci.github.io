@@ -63,6 +63,7 @@
 - [DX Maps](http://www.dxmaps.com/spots/mapg.php?Lan=&Frec=&ML=&Map=NA&HF=&DXC=ING2&GL=)
 - [VHF DX](http://www.vhfdx.de/iono.htm)
 - [Ionograms](http://www.g0lfp.com/ionograms/index.php)
+- [Ionograms OK1KZE](https://www.ok1kze.com/radioklub/historie-2/ionogram-a-souvislost-s-delkou-skoku-odrazem-od-ionosfery)
 - [VOACAP Propagation](http://www.voacap.com/area/index.html)
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
 - [SFI](https://heartlandhams.org/sfi-number/)
@@ -91,6 +92,7 @@
 - [OK2FJ pages](https://www.radio-foto.eu/radio/index.php)
 - [OKDX foundation](https://www.okdxf.eu/)
 - [G4ILO pages](http://www.g4ilo.com)
+- [OK1KZE pages](https://www.ok1kze.com/)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
