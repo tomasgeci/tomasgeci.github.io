@@ -118,6 +118,7 @@
 ### Contest calendars and DX expeditions ###
 - [DX Maps](https://www.dxmaps.com/dxcalendar.html)
 - [DX Expeditions](https://dxexpeditions.com)
+- [Czech DX pedition](https://www.cdxp.cz/)
 - [OM DX Bulletin by OM3JW](http://www.hamradio.sk/idxp/)
 - [DX World Bulletin](https://www.dx-world.net/?s=bulletin)
 - [Contest calendar OM3KFF/OM5M (by OM5AST) WEB](https://calendar.google.com/calendar/embed?src=c_4f7227e24dc7b9dfccdfe05685e6198605fe9d3cd68ddbf7d96358210224d481%40group.calendar.google.com)
