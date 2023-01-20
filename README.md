@@ -58,7 +58,7 @@
 - [Meteoblue](https://www.meteoblue.com)
 - [Hory.sk - weather](http://www.hory.sk/pocasie.html)
 
-### Other links - maps, ionograms, propagation ###
+### Other links - maps, ionograms, propagation, smith, simulations ###
 - [ES MUF MAP](http://mmmonvhf.de/mufmap.php)
 - [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm)
 - [DX Maps](http://www.dxmaps.com/spots/mapg.php?Lan=&Frec=&ML=&Map=NA&HF=&DXC=ING2&GL=)
@@ -67,6 +67,9 @@
 - [Ionograms OK1KZE](https://www.ok1kze.com/radioklub/historie-2/ionogram-a-souvislost-s-delkou-skoku-odrazem-od-ionosfery)
 - [VOACAP Propagation](http://www.voacap.com/area/index.html)
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
+- [Smith-Chart](https://www.fritz.dellsperger.net/smith.html)
+- [MMana-Gal](http://gal-ana.de/)
+- [4NEC2](https://www.qsl.net/4nec2/)
 - [SFI](https://heartlandhams.org/sfi-number/)
 - [ARES-OM HF Propagation](https://aresom.wordpress.com/sirenie-radiovych-vln/)
 - [ASWAS Forecast](https://www.sws.bom.gov.au/HF_Systems/6/5)
@@ -88,6 +91,8 @@
 - [OM8ST pages](https://om8st.wordpress.com/)
 - [OK1IKE pages 1](http://ok1ike.c-a-v.com/)
 - [OK1IKE pages 2](http://ok1ike.nagano.cz/)
+- [OK1UFC pages 1](http://ok1ufc.nagano.cz/KV_anteny/articles_cz.htm)
+- [OK1UFC pages 2](http://ok1ufc.nagano.cz/KV_anteny/smith.htm)
 - [OK2BUH pages](http://ok2buh.nagano.cz/)
 - [OK1HDU pages](http://599.cz/index.php)
 - [OK2FJ pages](https://www.radio-foto.eu/radio/index.php)
