@@ -119,6 +119,7 @@
 - [DX World](https://www.dx-world.net)
 - [Toroids data](http://toroids.info)
 - [QRZNOW](https://qrznow.com)
+- [kmitocty.cz](https://kmitocty.cz/)
 
 ### Contest calendars and DX expeditions ###
 - [DX Maps](https://www.dxmaps.com/dxcalendar.html)
