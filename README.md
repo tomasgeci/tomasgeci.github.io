@@ -133,3 +133,17 @@
 - [Contest calendar WA7BNM](http://www.contestcalendar.com/contestcal.html)
 - [Contest calendar SK3BG](http://www.sk3bg.se/contest/)
 - [Contest calendar DL2NBY](https://sites.google.com/site/dl2nbycontestcalendar/)
+
+### HAM Eshops
+#### I'm not affiliated with any of these eshops
+- [WIMO (DL)](https://www.wimo.com/)
+- [ANICO (OM)](https://www.anico.sk/)
+- [HAMPARTS (OK)](https://hamparts.shop/)
+- [REMOTE-QTH (OK)](https://remoteqth.com/)
+- [HAMSHOP (OK)](https://www.hamshop.cz/)
+- [OK5IM (OK)](http://ok5im.com/)
+- [HFKITS (PA)](https://www.hfkits.com/)
+- [SOTABEAMS (G)](https://www.sotabeams.co.uk/)
+- [QRPLABS (G)](https://qrp-labs.com/)
+- [PASSION RADIO (F)](https://www.passion-radio.com/)
+- [HALLO FIELD DAY (SP)](https://hallofieldday.eu/)
