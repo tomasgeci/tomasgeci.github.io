@@ -100,7 +100,7 @@
 - [G4ILO pages](http://www.g4ilo.com)
 - [OK1KZE pages](https://www.ok1kze.com/)
 - [OK2ZAW pages](https://ok2zaw.blogspot.com/)
-- [OK1CDJ pages]()
+- [OK1CDJ pages](https://www.ok1cdj.com/)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
