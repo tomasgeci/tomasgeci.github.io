@@ -123,6 +123,14 @@
 - [QRZNOW](https://qrznow.com)
 - [kmitocty.cz](https://kmitocty.cz/)
 
+### Magazines
+- [SZR Radiozurnal](http://www.radiozurnal.sk)
+- [CRK Bulletin](https://www.crk.cz/CZ/BULLC)
+- [ARRL QST](http://www.arrl.org/qst)
+- [CQ Magazine](https://cq-amateur-radio.com/index.html)
+- [Funkamateur](https://www.funkamateur.de)
+- [Practical Wireless](https://gb.readly.com/products/magazine/practical-wireless
+
 ### Contest calendars and DX expeditions ###
 - [DX Maps](https://www.dxmaps.com/dxcalendar.html)
 - [DX Expeditions](https://dxexpeditions.com)
