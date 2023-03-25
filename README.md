@@ -87,6 +87,8 @@
 - [WSPRNET](https://www.wsprnet.org/drupal/wsprnet/map)
 
 ### Personal pages
+- [OM1AEG pages](https://sites.google.com/site/om1aeg/hlavna-stranka)
+- [OM2ZZ pages](https://om2zz.blogspot.com/)
 - [OM3LU pages](https://om3lu.blogspot.com/)
 - [OM8ST pages](https://om8st.wordpress.com/)
 - [OK1IKE pages 1](http://ok1ike.c-a-v.com/)
