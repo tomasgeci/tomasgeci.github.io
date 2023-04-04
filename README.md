@@ -118,6 +118,10 @@
 - [Saudisat 1C - SO-50](http://www.satview.org/?sat_id=27607U)
 - [TinyGS LoRa](https://tinygs.com/)
 
+#### QO-100 links
+- [QO-100 BandPlan](https://amsat-dl.org/en/new-qo-100-band-plan/)
+- [QO-100 HowTo](https://github.com/happysat/Es-Hail-2-Oscar-100)
+
 ### Unsorted
 - [LCWO](https://lcwo.net)
 - [DX News](https://dxnews.com)
