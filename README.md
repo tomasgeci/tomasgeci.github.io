@@ -85,6 +85,7 @@
 - [Repeaters SK](https://sites.google.com/site/prevadzace/)
 - [PSKreporter](https://www.pskreporter.info/pskmap.html)
 - [WSPRNET](https://www.wsprnet.org/drupal/wsprnet/map)
+- [AirScout](http://airscout.eu/index.php)
 
 ### Personal pages
 - [OM1AEG pages](https://sites.google.com/site/om1aeg/hlavna-stranka)
@@ -122,7 +123,6 @@
 - [DX News](https://dxnews.com)
 - [DX World](https://www.dx-world.net)
 - [Toroids data](http://toroids.info)
-- [QRZNOW](https://qrznow.com)
 - [kmitocty.cz](https://kmitocty.cz/)
 
 ### Magazines
