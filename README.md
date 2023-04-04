@@ -117,7 +117,7 @@
 - [Heavens Above](http://heavens-above.com/AmateurSats.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT)
 - [Saudisat 1C - SO-50](http://www.satview.org/?sat_id=27607U)
 - [TinyGS LoRa](https://tinygs.com/)
-- [QO-100 links]
+- QO-100 links
   - [QO-100 BandPlan](https://amsat-dl.org/en/new-qo-100-band-plan/)
   - [QO-100 HowTo](https://github.com/happysat/Es-Hail-2-Oscar-100)
 
