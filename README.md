@@ -66,6 +66,7 @@
 - [Ionograms](http://www.g0lfp.com/ionograms/index.php)
 - [Ionograms OK1KZE](https://www.ok1kze.com/radioklub/historie-2/ionogram-a-souvislost-s-delkou-skoku-odrazem-od-ionosfery)
 - [VOACAP Propagation](http://www.voacap.com/area/index.html)
+- [VOACAP DR2W](https://dr2w.de/dx-propagation/)
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
 - [Smith-Chart](https://www.fritz.dellsperger.net/smith.html)
 - [MMana-Gal](http://gal-ana.de/)
