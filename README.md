@@ -105,6 +105,8 @@
 - [OK1KZE pages](https://www.ok1kze.com/)
 - [OK2ZAW pages](https://ok2zaw.blogspot.com/)
 - [OK1CDJ pages](https://www.ok1cdj.com/)
+- [DK7ZB pages](https://www.qsl.net/dk7zb/start1.htm)
+- [DK7ZB baluns](https://www.qsl.net/dk7zb/Baluns/current_balun.htm)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
