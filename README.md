@@ -164,3 +164,4 @@
 - [QRPLABS (G)](https://qrp-labs.com/)
 - [PASSION RADIO (F)](https://www.passion-radio.com/)
 - [HALLO FIELD DAY (SP)](https://hallofieldday.eu/)
+- [HAMRADIO SHOP](https://hamradioshop.net)
