@@ -107,6 +107,7 @@
 - [OK1CDJ pages](https://www.ok1cdj.com/)
 - [DK7ZB pages](https://www.qsl.net/dk7zb/start1.htm)
 - [DK7ZB baluns](https://www.qsl.net/dk7zb/Baluns/current_balun.htm)
+- [EA4GPZ SAT](https://destevez.net/)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
