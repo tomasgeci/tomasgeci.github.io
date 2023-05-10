@@ -100,6 +100,7 @@
 - [OK2BUH pages](http://ok2buh.nagano.cz/)
 - [OK1HDU pages](http://599.cz/index.php)
 - [OK2FJ pages](https://www.radio-foto.eu/radio/index.php)
+- [OK1GTH pages](http://ok1gth.nagano.cz)
 - [OKDX foundation](https://www.okdxf.eu/)
 - [G4ILO pages](http://www.g4ilo.com)
 - [OK1KZE pages](https://www.ok1kze.com/)
