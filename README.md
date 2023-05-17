@@ -168,3 +168,5 @@
 - [PASSION RADIO (F)](https://www.passion-radio.com/)
 - [HALLO FIELD DAY (SP)](https://hallofieldday.eu/)
 - [HAMRADIO SHOP](https://hamradioshop.net)
+- [POINT.AT (OE)](https://www.point.at/)
+- [SMTECHNOLOGY (I)](https://www.smtechnologyshop.com/)
