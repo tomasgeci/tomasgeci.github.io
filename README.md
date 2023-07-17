@@ -176,3 +176,4 @@
 - [HAMRADIO SHOP](https://hamradioshop.net)
 - [POINT.AT (OE)](https://www.point.at/)
 - [SMTECHNOLOGY (I)](https://www.smtechnologyshop.com/)
+- [TECHNOFIX (G)](https://shop.technofix.uk/index.php?route=common/home)
