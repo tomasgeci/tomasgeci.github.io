@@ -7,6 +7,11 @@
 
 [SOLAR](http://www.hamqsl.com/solar.html)
 
+### CEPT ###
+- [CEPT R1 Operating abroad](https://www.iaru-r1.org/reference/operating-abroad/)
+- [CEPT T/R 61-01](https://docdb.cept.org/download/2ae38a89-e58a/TR6101.pdf)
+- [CEPT T/R 61-02](https://docdb.cept.org/download/2569)
+
 ### Beacons ###
 - [NCDXF](http://www.ncdxf.org/beacon/)
 
