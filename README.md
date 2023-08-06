@@ -144,6 +144,7 @@
 - [Toroids data](http://toroids.info)
 - [Toroid vendors comparison](https://palomar-engineers.com/ferrite-products/ferrite-cores/toroid-cross-reference)
 - [kmitocty.cz](https://kmitocty.cz/)
+- [Crimping connectors guide](https://www.mattmillman.com/info/crimpconnectors/)
 
 ### Magazines
 - [SZR Radiozurnal](http://www.radiozurnal.sk)
