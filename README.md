@@ -44,7 +44,6 @@
 - [WWFF](http://wwff.co/)
 - [WWFF Directory](http://wwff.co/directory/)
 - [WWFF logging](http://wwff.co/rules-faq/confirming-and-sending-log/)
-- [Saisie Sota FR](http://www.sota-france.fr/articles.php?lng=fr&pg=140&mnuid=72&tconfig=0)
 - [HEMA](http://hema.org.uk/)
 - [GMA](https://www.cqgma.org/)
 
@@ -55,7 +54,6 @@
 - [Hamspots - digi](http://hamspots.net)
 - [DX Watch](https://www.dxwatch.com)
 - [DX Heat](https://dxheat.com/dxc/)
-- [HB9FA](http://www.hb9fa.ch/dx-cluster.html)
 - [DX galaxy](http://www.dxgalaxy.com)
 - [Telnet clusters 1](https://www.ng3k.com/Misc/cluster.html)
 - [Telnet clusters 2](https://www.dxcluster.info/telnet/index.php)
@@ -81,6 +79,7 @@
 - [Smith-Chart](https://www.fritz.dellsperger.net/smith.html)
 - [MMana-Gal](http://gal-ana.de/)
 - [4NEC2](https://www.qsl.net/4nec2/)
+- [EzNec](https://www.eznec.com)
 - [SFI](https://heartlandhams.org/sfi-number/)
 - [ARES-OM HF Propagation](https://aresom.wordpress.com/sirenie-radiovych-vln/)
 - [ASWAS Forecast](https://www.sws.bom.gov.au/HF_Systems/6/5)
