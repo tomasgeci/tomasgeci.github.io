@@ -120,6 +120,7 @@
 - [DK7ZB baluns](https://www.qsl.net/dk7zb/Baluns/current_balun.htm)
 - [EA4GPZ SAT pages](https://destevez.net/)
 - [SA5IKN](https://dxer.site)
+- [WPSD Dashboard by W0CHP](https://w0chp.net)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
