@@ -189,3 +189,4 @@
 - [POINT.AT (OE)](https://www.point.at/)
 - [SMTECHNOLOGY (I)](https://www.smtechnologyshop.com/)
 - [TECHNOFIX (G)](https://shop.technofix.uk/index.php?route=common/home)
+- [BOX73 (DL)](https://www.box73.de)
