@@ -93,6 +93,7 @@
 - [NOAA Forecast](https://www.swpc.noaa.gov/forecasts)
 - [NOAA K-Index](https://www.swpc.noaa.gov/products/planetary-k-index)
 - [SpaceWeather](https://www.spaceweatherlive.com/en/solar-activity.html)
+- [SolarHAM](https://www.solarham.net)
 - [W5MMW Solar](https://solar.w5mmw.net)
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
 - [Repeaters SK](https://sites.google.com/site/prevadzace/)
