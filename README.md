@@ -179,7 +179,6 @@
 - [ANICO (OM)](https://www.anico.sk/)
 - [HAMPARTS (OK)](https://hamparts.shop/)
 - [REMOTE-QTH (OK)](https://remoteqth.com/)
-- [HAMSHOP (OK)](https://www.hamshop.cz/)
 - [OK5IM (OK)](http://ok5im.com/)
 - [HFKITS (PA)](https://www.hfkits.com/)
 - [SOTABEAMS (G)](https://www.sotabeams.co.uk/)
