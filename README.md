@@ -88,6 +88,7 @@
 - [ITS HF Propagation tools](http://www.greg-hand.com/hfwin32.html)
 - [Solar Indices](https://www.electronics-notes.com/articles/antennas-propagation/ionospheric/solar-indices-flux-a-ap-k-kp.php)
 - [Grey-line Propagation](https://www.electronics-notes.com/articles/antennas-propagation/ionospheric/greyline-propagation.php)
+- [4X4XM propagation pages](https://www.qsl.net/4x4xm/HF-Propagation.htm)
 - [HamSQL solar](http://www.hamqsl.com/solar.html)
 - [NOAA WATCH](https://www.swpc.noaa.gov/products/alerts-watches-and-warnings)
 - [NOAA Forecast](https://www.swpc.noaa.gov/forecasts)
