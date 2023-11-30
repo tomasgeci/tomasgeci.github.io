@@ -7,10 +7,13 @@
 
 [SOLAR](http://www.hamqsl.com/solar.html)
 
-### CEPT ###
+### CEPT & IARU R1 ###
 - [CEPT R1 Operating abroad](https://www.iaru-r1.org/reference/operating-abroad/)
 - [CEPT T/R 61-01](https://docdb.cept.org/download/2ae38a89-e58a/TR6101.pdf)
 - [CEPT T/R 61-02](https://docdb.cept.org/download/2569)
+- (IARU R1 Bandplans)(https://www.iaru-r1.org/reference/band-plans/)
+- (IARUMS R1 News)(https://www.iaru-r1.org/spectrum/monitoring-system/iarums-r1-news/)
+- (IARU R1 Spectrum News)(https://www.iaru-r1.org/category/spectrum/) *
 
 ### Beacons ###
 - [NCDXF](http://www.ncdxf.org/beacon/)
@@ -91,10 +94,10 @@
 - [4X4XM propagation pages](https://www.qsl.net/4x4xm/HF-Propagation.htm)
 - [HamSQL solar](http://www.hamqsl.com/solar.html)
 - [NOAA WATCH](https://www.swpc.noaa.gov/products/alerts-watches-and-warnings)
-- [NOAA Forecast](https://www.swpc.noaa.gov/forecasts)
+- [NOAA Forecast](https://www.swpc.noaa.gov/forecasts) *
 - [NOAA K-Index](https://www.swpc.noaa.gov/products/planetary-k-index)
 - [SpaceWeather](https://www.spaceweatherlive.com/en/solar-activity.html)
-- [SolarHAM](https://www.solarham.net)
+- [SolarHAM](https://www.solarham.net) *
 - [W5MMW Solar](https://solar.w5mmw.net)
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
 - [Repeaters SK](https://sites.google.com/site/prevadzace/)
