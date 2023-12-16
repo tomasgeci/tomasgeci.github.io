@@ -96,7 +96,8 @@
 - [NOAA WATCH](https://www.swpc.noaa.gov/products/alerts-watches-and-warnings)
 - [NOAA Forecast](https://www.swpc.noaa.gov/forecasts) *
 - [NOAA K-Index](https://www.swpc.noaa.gov/products/planetary-k-index)
-- [SpaceWeather](https://www.spaceweatherlive.com/en/solar-activity.html)
+- [SpaceWeatherLive](https://www.spaceweatherlive.com/en/solar-activity.html)
+- [SpaceWeather](https://spaceweather.com)
 - [SolarHAM](https://www.solarham.net) *
 - [W5MMW Solar](https://solar.w5mmw.net)
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
@@ -128,6 +129,8 @@
 - [EA4GPZ SAT pages](https://destevez.net/)
 - [SA5IKN](https://dxer.site)
 - [WPSD Dashboard by W0CHP](https://w0chp.net)
+- [OZ7IGY - PI4](https://www.oz7igy.dk/pi4/)
+- [OZ2M - PI4](https://rudius.net/oz2m/)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
