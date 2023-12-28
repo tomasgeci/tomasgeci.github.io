@@ -105,6 +105,7 @@
 - [PSKreporter](https://www.pskreporter.info/pskmap.html)
 - [WSPRNET](https://www.wsprnet.org/drupal/wsprnet/map)
 - [AirScout](http://airscout.eu/index.php)
+- [MUF map](https://dxmap.f5uii.net/#)
 
 ### Personal pages
 - [OM1AEG pages](https://sites.google.com/site/om1aeg/hlavna-stranka)
