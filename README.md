@@ -60,7 +60,8 @@
 - [DX galaxy](http://www.dxgalaxy.com)
 - [Telnet clusters 1](https://www.ng3k.com/Misc/cluster.html)
 - [Telnet clusters 2](https://www.dxcluster.info/telnet/index.php)
-- [SSH cluster HB9VQQ](https://webcluster.hb9vqq.ch)
+- [SSH cluster HB9VQQ](https://webcluster.hb9vqq.ch) *
+- [Hamspots DIGI](https://hamspots.net/)
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
@@ -161,6 +162,7 @@
 - [DLARC archive](https://archive.org/details/dlarc?tab=collection)
 - [Blogs Radio](https://blogs.radio/i/?rid=65059b04695de)
 - [contests live](http://contest.run/#/)
+- [Olivia](https://oliviadigitalmode.org/)
 
 ### Magazines
 - [SZR Radiozurnal](http://www.radiozurnal.sk)
