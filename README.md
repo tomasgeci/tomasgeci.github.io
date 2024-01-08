@@ -191,6 +191,8 @@
 - [HAMPARTS (OK)](https://hamparts.shop/)
 - [REMOTE-QTH (OK)](https://remoteqth.com/)
 - [OK5IM (OK)](http://ok5im.com/)
+- [Elix.cz (OK)](https://elix.cz/)
+- [LC-variable (OK)](https://www.lc-variable.eu/index.php?lang=en)
 - [HFKITS (PA)](https://www.hfkits.com/)
 - [SOTABEAMS (G)](https://www.sotabeams.co.uk/)
 - [QRPLABS (G)](https://qrp-labs.com/)
@@ -201,3 +203,4 @@
 - [SMTECHNOLOGY (I)](https://www.smtechnologyshop.com/)
 - [TECHNOFIX (G)](https://shop.technofix.uk/index.php?route=common/home)
 - [BOX73 (DL)](https://www.box73.de)
+- [DX patrol (CT)](https://dxpatrol.pt/shop/)
