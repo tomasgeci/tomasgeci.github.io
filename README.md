@@ -102,7 +102,7 @@
 - [SolarHAM](https://www.solarham.net) *
 - [W5MMW Solar](https://solar.w5mmw.net)
 - [Repeaters Book - OM](https://www.repeaterbook.com/row_repeaters/index.php?state_id=SK)
-- [Repeaters SK](https://sites.google.com/site/prevadzace/)
+- [Repeaters OM](https://sites.google.com/site/prevadzace/)
 - [PSKreporter](https://www.pskreporter.info/pskmap.html)
 - [WSPRNET](https://www.wsprnet.org/drupal/wsprnet/map)
 - [AirScout](http://airscout.eu/index.php)
