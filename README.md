@@ -134,6 +134,7 @@
 - [OZ7IGY - PI4](https://www.oz7igy.dk/pi4/)
 - [OZ2M - PI4](https://rudius.net/oz2m/)
 - [OK2KKW pages](https://www.ok2kkw.com/index1.html)
+- [OK1FCB](https://ok1fcb.webnode.cz)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
