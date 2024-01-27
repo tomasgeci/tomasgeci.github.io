@@ -135,6 +135,7 @@
 - [OZ2M - PI4](https://rudius.net/oz2m/)
 - [OK2KKW pages](https://www.ok2kkw.com/index1.html)
 - [OK1FCB](https://ok1fcb.webnode.cz)
+- [DJ0IP](https://www.dj0ip.de)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
