@@ -73,7 +73,7 @@
 
 ### Other links - maps, ionograms, propagation, smith, simulations ###
 - [ES MUF MAP](http://mmmonvhf.de/mufmap.php)
-- [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm)
+- [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm) *
 - [DX Maps](http://www.dxmaps.com/spots/mapg.php?Lan=&Frec=&ML=&Map=NA&HF=&DXC=ING2&GL=)
 - [VHF DX](http://www.vhfdx.de/iono.htm)
 - [Ionograms](http://www.g0lfp.com/ionograms/index.php)
@@ -82,6 +82,7 @@
 - [VOACAP Propagation](http://www.voacap.com/area/index.html)
 - [VOACAP DR2W](https://dr2w.de/dx-propagation/)
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
+- [HF MUF](https://prop.kc2g.com) *
 - [Smith-Chart](https://www.fritz.dellsperger.net/smith.html)
 - [MMana-Gal](http://gal-ana.de/)
 - [4NEC2](https://www.qsl.net/4nec2/)
