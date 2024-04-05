@@ -167,6 +167,9 @@
 - [contests live](http://contest.run/#/)
 - [Olivia](https://oliviadigitalmode.org/)
 
+### Meshtastic
+- [Meshtastic OM](https://meshtastic.webnode.sk/)
+
 ### Magazines
 - [SZR Radiozurnal](http://www.radiozurnal.sk)
 - [CRK Bulletin](https://www.crk.cz/CZ/BULLC)
