@@ -169,6 +169,26 @@
 - [VaraAc howto](https://www.varac-hamradio.com/forum/manuals-troubleshooting/varac-quick-start-guide)
 - [JS8Call](http://js8call.com/)
 
+### CAD and circuit simulators
+
+#### Circuit Simulators
+- [Falstad](https://www.falstad.com/circuit/)
+- [LushProject](https://lushprojects.com/circuitjs/circuitjs.html)
+- [MicroCap (discontunued)](https://micro-cap.informer.com/)
+- [CircuitLabs](https://www.circuitlab.com/)
+- [Multisim](https://www.multisim.com/)
+- [EveryCircuit](https://everycircuit.com/)
+- [DCACLab](https://dcaclab.com/)
+- [SimulIDE](https://simulide.com/p/)
+- [QUCS](https://qucs.sourceforge.net/)
+- [NI Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html)
+- [TINA-TI](https://www.ti.com/tool/TINA-TI)
+
+#### CAD/Design
+- [FreeCAD](https://www.freecad.org/)
+- [KiCAD](https://www.kicad.org/)
+- [EasyEDA](https://easyeda.com/)
+
 ### Meshtastic
 - [Meshtastic OM](https://meshtastic.webnode.sk/)
 
