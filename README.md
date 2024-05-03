@@ -174,7 +174,7 @@
 #### Circuit Simulators
 - [Falstad](https://www.falstad.com/circuit/)
 - [LushProject](https://lushprojects.com/circuitjs/circuitjs.html)
-- [MicroCap (discontunued)](https://micro-cap.informer.com/)
+- [MicroCap (discontinued)](https://micro-cap.informer.com/)
 - [CircuitLabs](https://www.circuitlab.com/)
 - [Multisim](https://www.multisim.com/)
 - [EveryCircuit](https://everycircuit.com/)
