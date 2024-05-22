@@ -194,7 +194,7 @@
 
 ### Magazines
 - [SZR Radiozurnal](http://www.radiozurnal.sk)
-- [CRK Bulletin](https://www.crk.cz/CZ/BULLC)
+- [CRK Bulletin](https://ceskyradioklub.cz/ke-stazeni/category/5-bulletin)
 - [ARRL QST](http://www.arrl.org/qst)
 - [CQ Magazine](https://cq-amateur-radio.com/index.html)
 - [Funkamateur](https://www.funkamateur.de)
