@@ -62,6 +62,7 @@
 - [Telnet clusters 2](https://www.dxcluster.info/telnet/index.php)
 - [SSH cluster HB9VQQ](https://webcluster.hb9vqq.ch) *
 - [Hamspots DIGI](https://hamspots.net/)
+- [QO-100 Dx Cluster](https://qo100dx.club/cluster)
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
