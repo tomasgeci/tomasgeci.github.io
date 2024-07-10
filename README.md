@@ -63,6 +63,7 @@
 - [SSH cluster HB9VQQ](https://webcluster.hb9vqq.ch) *
 - [Hamspots DIGI](https://hamspots.net/)
 - [QO-100 Dx Cluster](https://qo100dx.club/cluster)
+- [HamAlert](https://hamalert.org/about)
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
@@ -143,6 +144,7 @@
 - [Orbitron](http://www.stoff.pl/)
 - [GPredict](http://gpredict.oz9aec.net/)
 - [FM Sat Frequencies](https://www.amsat.org/fm-satellite-frequency-summary/)
+- [Tevel FM SAT status](https://www.df2et.de/tevel/)
 - [Amsat On-line prediction](http://www.amsat.org/track/index.php)
 - [DK3WN Satellite status](http://www.dk3wn.info/p/?page_id=29535)
 - [Satellite tracking site](http://www.n2yo.com/?s=40967)
@@ -153,7 +155,9 @@
 - [TinyGS LoRa](https://tinygs.com/)
 - QO-100 links
   - [QO-100 BandPlan](https://amsat-dl.org/en/new-qo-100-band-plan/)
-  - [QO-100 HowTo](https://github.com/happysat/Es-Hail-2-Oscar-100)
+  - [QO-100 HowTo - Archived]([https://github.com/happysat/Es-Hail-2-Oscar-100](https://github.com/nikolagor/Es-Hail-2-Oscar-100))
+  - [Dish pointing 1](https://eshail.batc.org.uk/point/)
+  - [Dish pointing 2](https://www.dishpointer.com/)
 
 ### Unsorted
 - [LCWO](https://lcwo.net)
