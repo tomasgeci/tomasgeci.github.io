@@ -173,6 +173,8 @@
 - [Olivia](https://oliviadigitalmode.org/)
 - [VaraAc howto](https://www.varac-hamradio.com/forum/manuals-troubleshooting/varac-quick-start-guide)
 - [JS8Call](http://js8call.com/)
+- [FeldHell EU](https://feldhell.net/)
+- [OpenSource radio](https://opensource.radio/)
 
 ### CAD and circuit simulators
 
