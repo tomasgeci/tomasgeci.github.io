@@ -227,7 +227,6 @@
 - [REMOTE-QTH (OK)](https://remoteqth.com/)
 - [OK5IM (OK)](http://ok5im.com/)
 - [Elix.cz (OK)](https://elix.cz/)
-- [LC-variable (OK)](https://www.lc-variable.eu/index.php?lang=en)
 - [HFKITS (PA)](https://www.hfkits.com/)
 - [SOTABEAMS (G)](https://www.sotabeams.co.uk/)
 - [QRPLABS (G)](https://qrp-labs.com/)
