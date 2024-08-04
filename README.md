@@ -175,6 +175,11 @@
 - [JS8Call](http://js8call.com/)
 - [FeldHell EU](https://feldhell.net/)
 - [OpenSource radio](https://opensource.radio/)
+- SWL
+  - [MediumWave.de](http://mediumwave.de/)
+  - [Short-Wave.info](http://short-wave.info/)
+  - [EibiSpace](http://www.eibispace.de/)
+  - [ShortWave.live](https://shortwave.live/)
 
 ### CAD and circuit simulators
 
