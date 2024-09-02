@@ -174,6 +174,7 @@
 - [VaraAc howto](https://www.varac-hamradio.com/forum/manuals-troubleshooting/varac-quick-start-guide)
 - [JS8Call](http://js8call.com/)
 - [FeldHell EU](https://feldhell.net/)
+- [APRS](https://how.aprs.works)
 - [OpenSource radio](https://opensource.radio/)
 - SWL
   - [MediumWave.de](http://mediumwave.de/)
