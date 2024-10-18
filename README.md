@@ -120,6 +120,7 @@
 - [OK1IKE pages 2](http://ok1ike.nagano.cz/)
 - [OK1UFC pages 1](https://www.sidlo.com/KV_anteny/articles_cz.htm)
 - [OK1UFC pages 2](https://www.sidlo.com/radiotechnika/index.htm)
+- [OK1UFC Smith examples](https://www.sidlo.com/KV_anteny/smith.htm)
 - [OK2BUH pages](http://ok2buh.nagano.cz/)
 - [OK1HDU pages](http://599.cz/index.php)
 - [OK2FJ pages](https://www.radio-foto.eu/radio/index.php)
