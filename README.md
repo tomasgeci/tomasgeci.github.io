@@ -140,6 +140,7 @@
 - [OK2KKW pages](https://www.ok2kkw.com/index1.html)
 - [OK1FCB](https://ok1fcb.webnode.cz)
 - [DJ0IP](https://www.dj0ip.de)
+- [PA0FRI](https://www.pa0fri.com)
 
 ### HAM satellite links ###
 - [Orbitron](http://www.stoff.pl/)
