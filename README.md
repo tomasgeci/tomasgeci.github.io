@@ -178,7 +178,7 @@
 - [FeldHell EU](https://feldhell.net/)
 - [APRS](https://how.aprs.works)
 - [OpenSource radio](https://opensource.radio/)
-- [Sherwood Emngineering](http://sherweng.com/table.html) *
+- [Sherwood Engineering](http://sherweng.com/table.html) *
 - SWL
   - [MediumWave.de](http://mediumwave.de/)
   - [Short-Wave.info](http://short-wave.info/)
