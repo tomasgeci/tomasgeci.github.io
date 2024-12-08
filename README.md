@@ -179,6 +179,7 @@
 - [APRS](https://how.aprs.works)
 - [OpenSource radio](https://opensource.radio/)
 - [Sherwood Engineering](http://sherweng.com/table.html) *
+- [MacHamradio](https://machamradio.com)
 - SWL
   - [MediumWave.de](http://mediumwave.de/)
   - [Short-Wave.info](http://short-wave.info/)
