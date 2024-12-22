@@ -220,6 +220,7 @@
 ### Contest calendars and DX expeditions ###
 - [DX Maps](https://www.dxmaps.com/dxcalendar.html)
 - [DX Expeditions](https://dxexpeditions.com)
+- [HamRadioWorld](https://www.hamradioworld.org)
 - [Czech DX pedition](https://www.cdxp.cz/)
 - [OM DX Bulletin by OM3JW](http://www.hamradio.sk/idxp/)
 - [DX World Bulletin](https://www.dx-world.net/?s=bulletin)
