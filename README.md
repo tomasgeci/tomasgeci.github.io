@@ -185,6 +185,7 @@
   - [Short-Wave.info](http://short-wave.info/)
   - [EibiSpace](http://www.eibispace.de/)
   - [ShortWave.live](https://shortwave.live/)
+  - [Swling](https://swling.com/blog/)
 
 ### CAD and circuit simulators
 
