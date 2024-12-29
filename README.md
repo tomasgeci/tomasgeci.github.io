@@ -243,7 +243,7 @@
 - [QRPLABS (G)](https://qrp-labs.com/)
 - [PASSION RADIO (F)](https://www.passion-radio.com/)
 - [HALLO FIELD DAY (SP)](https://hallofieldday.eu/)
-- [HAMRADIO SHOP](https://hamradioshop.net)
+- [HAMRADIO SHOP (DL)](https://hamradioshop.net)
 - [POINT.AT (OE)](https://www.point.at/)
 - [SMTECHNOLOGY (I)](https://www.smtechnologyshop.com/)
 - [TECHNOFIX (G)](https://shop.technofix.uk/index.php?route=common/home)
