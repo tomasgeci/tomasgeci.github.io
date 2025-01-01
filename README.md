@@ -57,6 +57,7 @@
 - [Hamspots - digi](http://hamspots.net)
 - [DX Watch](https://www.dxwatch.com)
 - [DX Heat](https://dxheat.com/dxc/)
+- [Holy Cluster](https://holycluster.iarc.org)
 - [DX galaxy](http://www.dxgalaxy.com)
 - [Telnet clusters 1](https://www.ng3k.com/Misc/cluster.html)
 - [Telnet clusters 2](https://www.dxcluster.info/telnet/index.php)
