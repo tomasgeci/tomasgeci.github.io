@@ -179,6 +179,9 @@
 - [JS8Call](http://js8call.com/)
 - [FeldHell EU](https://feldhell.net/)
 - [APRS](https://how.aprs.works)
+- [APRS.fi](https://aprs.fi)
+- [LoRA APRS](https://lora.ham-radio-op.net/)
+- [LoRA APRS live](https://lora-aprs.live)
 - [OpenSource radio](https://opensource.radio/)
 - [Sherwood Engineering](http://sherweng.com/table.html) *
 - [MacHamradio](https://machamradio.com)
