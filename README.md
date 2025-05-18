@@ -118,6 +118,7 @@
 - [OM3LU pages](https://om3lu.blogspot.com/)
 - [OM8ST pages](https://om8st.wordpress.com/)
 - [OK2AWO blog](https://blog.ok2awo.com/)
+- [OK2HAM](https://ok2ham.cz/)
 - [OK1IKE pages 1](http://ok1ike.c-a-v.com/)
 - [OK1IKE pages 2](http://ok1ike.nagano.cz/)
 - [OK1UFC pages 1](https://www.sidlo.com/KV_anteny/articles_cz.htm)
