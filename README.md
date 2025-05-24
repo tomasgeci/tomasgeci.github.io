@@ -183,6 +183,7 @@
 - [APRS.fi](https://aprs.fi)
 - [LoRA APRS](https://lora.ham-radio-op.net/)
 - [LoRA APRS live](https://lora-aprs.live)
+- [APRS Thursday](https://aprsph.net/aprsthursday/)
 - [OpenSource radio](https://opensource.radio/)
 - [Sherwood Engineering](http://sherweng.com/table.html) *
 - [MacHamradio](https://machamradio.com)
