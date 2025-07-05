@@ -165,6 +165,7 @@
   - [Dish pointing 2](https://www.dishpointer.com/)
 
 ### Unsorted
+- [HamNet](https://hamnet.db)
 - [LCWO](https://lcwo.net)
 - [DX News](https://dxnews.com)
 - [DX World](https://www.dx-world.net)
@@ -213,9 +214,6 @@
 - [FreeCAD](https://www.freecad.org/)
 - [KiCAD](https://www.kicad.org/)
 - [EasyEDA](https://easyeda.com/)
-
-### Meshtastic
-- [Meshtastic OM](https://meshtastic.webnode.sk/)
 
 ### Magazines
 - [SZR Radiozurnal](http://www.radiozurnal.sk)
