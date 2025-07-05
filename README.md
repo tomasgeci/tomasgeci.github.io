@@ -165,7 +165,7 @@
   - [Dish pointing 2](https://www.dishpointer.com/)
 
 ### Unsorted
-- [HamNet](https://hamnet.db)
+- [HamNet](https://hamnetdb.net)
 - [LCWO](https://lcwo.net)
 - [DX News](https://dxnews.com)
 - [DX World](https://www.dx-world.net)
