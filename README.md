@@ -163,6 +163,8 @@
   - [QO-100 HowTo - Archived]([https://github.com/happysat/Es-Hail-2-Oscar-100](https://github.com/nikolagor/Es-Hail-2-Oscar-100))
   - [Dish pointing 1](https://eshail.batc.org.uk/point/)
   - [Dish pointing 2](https://www.dishpointer.com/)
+  - [QO-100 WebSDR Cornwall](https://eshail.batc.org.uk/nb/)
+  - [QO-100 WebSDR IS0GRB](http://websdr.is0grb.it:8901/)
 
 ### Unsorted
 - [HamNet](https://hamnetdb.net)
