@@ -171,6 +171,7 @@
 - [LCWO](https://lcwo.net)
 - [DX News](https://dxnews.com)
 - [DX World](https://www.dx-world.net)
+- [HamWeekly](https://hamweekly.com/archive/)
 - [Toroids data](http://toroids.info)
 - [Toroid vendors comparison](https://palomar-engineers.com/ferrite-products/ferrite-cores/toroid-cross-reference)
 - [kmitocty.cz](https://kmitocty.cz/)
@@ -186,8 +187,8 @@
 - [APRS.fi](https://aprs.fi)
 - [LoRA APRS](https://lora.ham-radio-op.net/)
 - [LoRA APRS live](https://lora-aprs.live)
+- [LoRA APRS PL](https://lora-aprs.pl/wiki)
 - [APRS Thursday](https://aprsph.net/aprsthursday/)
-- [OpenSource radio](https://opensource.radio/)
 - [Sherwood Engineering](http://sherweng.com/table.html) *
 - [MacHamradio](https://machamradio.com)
 - SWL
