@@ -172,6 +172,7 @@
 - [DX News](https://dxnews.com)
 - [DX World](https://www.dx-world.net)
 - [HamWeekly](https://hamweekly.com/archive/)
+- [ILLW Light House Day](https://illw.net/)
 - [Toroids data](http://toroids.info)
 - [Toroid vendors comparison](https://palomar-engineers.com/ferrite-products/ferrite-cores/toroid-cross-reference)
 - [kmitocty.cz](https://kmitocty.cz/)
