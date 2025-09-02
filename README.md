@@ -193,6 +193,7 @@
 - [LoRA APRS live](https://lora-aprs.live)
 - [LoRA APRS PL](https://lora-aprs.pl/wiki)
 - [APRS Thursday](https://aprsph.net/aprsthursday/)
+- [MeshCore BA](https://mesh.om3kff.sk/)
 - [Sherwood Engineering](http://sherweng.com/table.html) *
 - [MacHamradio](https://machamradio.com)
 - SWL
