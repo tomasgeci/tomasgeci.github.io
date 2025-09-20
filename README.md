@@ -88,6 +88,7 @@
 - [DxLook](https://dxlook.com/?view=summary)
 - [HF MUF](https://prop.kc2g.com) *
 - [Smith-Chart](https://www.fritz.dellsperger.net/smith.html)
+- [SimNEC](https://www.ae6ty.com/smith_charts/)
 - [MMana-Gal](http://gal-ana.de/)
 - [4NEC2](https://www.qsl.net/4nec2/)
 - [EzNec](https://www.eznec.com)
@@ -112,6 +113,8 @@
 - [WSPRNET](https://www.wsprnet.org/drupal/wsprnet/map)
 - [AirScout](http://airscout.eu/index.php)
 - [HAM DX Map](https://dxmap.f5uii.net/#)
+- [ADIF-to-QSL-label](https://github.com/s53zo/ADIF-to-QSL-label)
+- [ADIF-to-QSL-label web](https://s53zo.github.io/ADIF-to-QSL-label/make_qsl_labels.html)
 
 ### Personal pages
 - [OM1AEG pages](https://sites.google.com/site/om1aeg/hlavna-stranka)
