@@ -169,6 +169,7 @@
   - [Dish pointing 2](https://www.dishpointer.com/)
   - [QO-100 WebSDR Cornwall](https://eshail.batc.org.uk/nb/)
   - [QO-100 WebSDR IS0GRB](http://websdr.is0grb.it:8901/)
+  - [QO-100 WebSDR SQ8W](https://qo100.sq8w.pl/?lang=en)
 
 ### Unsorted
 - [HamNet](https://hamnetdb.net)
