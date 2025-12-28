@@ -267,3 +267,4 @@
 - [TECHNOFIX (G)](https://shop.technofix.uk/index.php?route=common/home)
 - [BOX73 (DL)](https://www.box73.de)
 - [DX patrol (CT)](https://dxpatrol.pt/shop/)
+- [RF-MICROWAVE (IT)](https://www.rf-microwave.com/en/home/)
