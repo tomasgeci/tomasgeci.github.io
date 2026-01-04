@@ -121,6 +121,7 @@
 - [OM2ZZ pages](https://om2zz.blogspot.com/)
 - [OM3LU pages](https://om3lu.blogspot.com/)
 - [OM8ST pages](https://om8st.wordpress.com/)
+- [OK1IF pages](https://ok1if.hamqth.com/)
 - [OK2AWO blog](https://blog.ok2awo.com/)
 - [OK2HAM](https://ok2ham.cz/)
 - [OK1IKE pages 1](http://ok1ike.c-a-v.com/)
