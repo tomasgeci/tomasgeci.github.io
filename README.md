@@ -199,6 +199,7 @@
 - [LoRA APRS PL](https://lora-aprs.pl/wiki)
 - [APRS Thursday](https://aprsph.net/aprsthursday/)
 - [MeshCore BA](https://mesh.om3kff.sk/)
+- [Meshcore BLE Turbo fork](https://github.com/liquidraver/MeshCore)
 - [Sherwood Engineering](http://sherweng.com/table.html) *
 - [MacHamradio](https://machamradio.com)
 - SWL
