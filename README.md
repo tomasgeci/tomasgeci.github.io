@@ -65,7 +65,6 @@
 - [Hamspots DIGI](https://hamspots.net/)
 - [QO-100 Dx Cluster](https://qo100dx.club/cluster)
 - [HamAlert](https://hamalert.org/about)
-- [DxLook](https://dxlook.com/)
 
 ### Spotting ###
 - [SMS Spot](http://gyalogradio.ham.hu/spotsms/howto-en.html)
@@ -86,7 +85,7 @@
 - [VOACAP Propagation](http://www.voacap.com/area/index.html)
 - [VOACAP DR2W](https://dr2w.de/dx-propagation/)
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
-- [DxLook](https://dxlook.com/?view=summary)
+- [DxLook](https://dxlook.com/)
 - [HF MUF](https://prop.kc2g.com) *
 - [Smith-Chart](https://www.fritz.dellsperger.net/smith.html)
 - [SimNEC](https://www.ae6ty.com/smith_charts/)
