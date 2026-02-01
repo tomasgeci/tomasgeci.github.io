@@ -185,6 +185,7 @@
 - [The Week In Amateur Radio](https://twiar.net/)
 - [Amateur Radio Daily](https://daily.hamweekly.com/)
 - [Zero Retries](https://www.zeroretries.radio/)
+- [EvoHam](https://evoham.com/)
 - [ILLW Lighthouse Weekend](https://illw.net/)
 - [Toroids data](http://toroids.info)
 - [Toroid vendors comparison](https://palomar-engineers.com/ferrite-products/ferrite-cores/toroid-cross-reference)
