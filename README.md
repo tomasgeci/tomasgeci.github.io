@@ -204,6 +204,8 @@
 - [LoRA APRS live](https://lora-aprs.live)
 - [LoRA APRS PL](https://lora-aprs.pl/wiki)
 - [APRS Thursday](https://aprsph.net/aprsthursday/)
+- [MeshCom](https://icssw.org/en/meshcom/)
+- [MeshCom Wiki](https://wiki.oevsv.at/wiki/MeshCom)
 - [MeshCore BA](https://mesh.om3kff.sk/)
 - [Meshcore BLE Turbo fork](https://github.com/liquidraver/MeshCore)
 - [MeshCore Flasher](https://flasher.meshcore.dev/)
