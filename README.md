@@ -206,8 +206,9 @@
 - [APRS Thursday](https://aprsph.net/aprsthursday/)
 - [MeshCom](https://icssw.org/en/meshcom/)
 - [MeshCom Wiki](https://wiki.oevsv.at/wiki/MeshCom)
+- [MeshCore](https://meshcore.io/)
+- [MeshCore Blog](https://blog.meshcore.io/)
 - [MeshCore BA](https://mesh.om3kff.sk/)
-- [Meshcore BLE Turbo fork](https://github.com/liquidraver/MeshCore)
 - [MeshCore Flasher](https://flasher.meshcore.dev/)
 - [MeshCore Analyzer](https://analyzer.letsmesh.net)
 - [Sherwood Engineering](http://sherweng.com/table.html) *
