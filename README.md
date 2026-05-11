@@ -195,7 +195,7 @@
 - [Blogs Radio](https://blogs.radio/i/?rid=65059b04695de)
 - [contests live](http://contest.run/#/)
 - [Olivia](https://oliviadigitalmode.org/)
-- [VaraAc howto](https://www.varac-hamradio.com/forum/manuals-troubleshooting/varac-quick-start-guide)
+- [VARA Modem](https://varamodem.com/)
 - [JS8Call](http://js8call.com/)
 - [FeldHell EU](https://feldhell.net/)
 - [APRS](https://how.aprs.works)
