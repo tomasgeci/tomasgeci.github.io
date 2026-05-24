@@ -144,6 +144,7 @@
 - [OK1CDJ pages](https://www.ok1cdj.com/)
 - [DK7ZB pages](https://www.qsl.net/dk7zb/start1.htm)
 - [DK7ZB baluns](https://www.qsl.net/dk7zb/Baluns/current_balun.htm)
+- [Výber feritového materiálu v RA praxi](https://cq.sk/vyber-vhodneho-feritoveho-materialu-v-radioamaterskej-praxi/)
 - [EA4GPZ SAT pages](https://destevez.net/)
 - [SA5IKN](https://dxer.site)
 - [WPSD Dashboard by W0CHP](https://w0chp.net)
