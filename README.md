@@ -202,6 +202,7 @@
 - [FeldHell EU](https://feldhell.net/)
 - [APRS](https://how.aprs.works)
 - [APRS.fi](https://aprs.fi)
+- [APRS World](https://aprs.world/)
 - [LoRA APRS](https://lora.ham-radio-op.net/)
 - [LoRA APRS live](https://lora-aprs.live)
 - [LoRA APRS PL](https://lora-aprs.pl/wiki)
