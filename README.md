@@ -76,6 +76,7 @@
 
 ### Other links - maps, ionograms, propagation, smith, simulations ###
 - [ES MUF MAP](http://mmmonvhf.de/mufmap.php)
+- [MUF Dog](https://muf-dog.nl/)
 - [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm) *
 - [DX Maps](http://www.dxmaps.com/spots/mapg.php?Lan=&Frec=&ML=&Map=NA&HF=&DXC=ING2&GL=)
 - [VHF DX](http://www.vhfdx.de/iono.htm)
