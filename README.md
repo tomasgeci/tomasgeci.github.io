@@ -201,6 +201,7 @@
 - [VARA Modem](https://varamodem.com/)
 - [JS8Call](http://js8call.com/)
 - [FeldHell EU](https://feldhell.net/)
+- [WSJT-X](https://wsjtx.github.io/wsjtx/index.html)
 - [APRS](https://how.aprs.works)
 - [APRS.fi](https://aprs.fi)
 - [APRS World](https://aprs.world/)
