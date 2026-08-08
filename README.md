@@ -288,3 +288,4 @@
 - [BOX73 (DL)](https://www.box73.de)
 - [DX patrol (CT)](https://dxpatrol.pt/shop/)
 - [RF-MICROWAVE (IT)](https://www.rf-microwave.com/en/home/)
+- [JANI ELECTRONICS (HA)](https://janielectronics.com/index.php?route=product/category&language=en-gb&path=61)
