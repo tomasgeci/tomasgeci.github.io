@@ -179,6 +179,7 @@
   - [QO-100 ADIF log parser](https://qo100.sq8w.pl/?lang=en)
 
 ### Unsorted
+- [QSL Info](https://www.qslinfo.de/)
 - [HamGPT](https://hamgpt.co/)
 - [UberSDR Instances](https://instances.ubersdr.org/)
 - [HamNet](https://hamnetdb.net)
