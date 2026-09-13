@@ -50,6 +50,7 @@
 - [HEMA](http://hema.org.uk/)
 - [GMA](https://www.cqgma.org/)
 - [PARC Community](https://parc-community.com/)
+- [WWTOTA](https://wwtota.com/)
 
 ### Clusters ###
 - [DX SUMMIT](http://dxsummit.fi)
