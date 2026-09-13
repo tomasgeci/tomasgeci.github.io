@@ -49,6 +49,7 @@
 - [WWFF logging](http://wwff.co/rules-faq/confirming-and-sending-log/)
 - [HEMA](http://hema.org.uk/)
 - [GMA](https://www.cqgma.org/)
+- [PARC Community](https://parc-community.com/)
 
 ### Clusters ###
 - [DX SUMMIT](http://dxsummit.fi)
