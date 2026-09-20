@@ -185,6 +185,7 @@
 - [QSL Info](https://www.qslinfo.de/)
 - [HamGPT](https://hamgpt.co/)
 - [UberSDR Instances](https://instances.ubersdr.org/)
+- [DigiPi](https://digipi.org/)
 - [HamNet](https://hamnetdb.net)
 - [LCWO](https://lcwo.net)
 - [DX News](https://dxnews.com)
