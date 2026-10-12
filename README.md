@@ -258,7 +258,7 @@
 - [CQ Magazine](https://cq-amateur-radio.com/index.html)
 - [Funkamateur](https://www.funkamateur.de)
 - [Practical Wireless](https://gb.readly.com/products/magazine/practical-wireless)
-- [SWR Magazine](https://swrmagazine.org/)
+- [SWR Magazine](https://fliphtml5.com/bookcase/ahiaf/)
 
 ### Contest calendars and DX expeditions ###
 - [DX Maps](https://www.dxmaps.com/dxcalendar.html)
