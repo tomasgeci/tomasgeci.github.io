@@ -120,9 +120,9 @@
 - [ADIF-to-QSL-label](https://github.com/s53zo/ADIF-to-QSL-label)
 - [ADIF-to-QSL-label web](https://s53zo.github.io/ADIF-to-QSL-label/make_qsl_labels.html)
 - [QSO Map](https://qsomap.cqgma.org/ADIF_to_Karte.php)
+- [QStory](https://yt3md.com/)
 - [EdiLog Map](https://lz5zo.org/ham/edilogmap.html)
 - [QLog](https://github.com/foldynl/QLog)
-- [YT3MD Log Analyzer](https://yt3md.com/)
 - [SH6](https://github.com/s53zo/SH6)
 - [DX Map HB9VQQ](https://dxmap.hb9vqq.ch/v8/)
 
