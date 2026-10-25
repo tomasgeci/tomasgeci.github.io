@@ -91,6 +91,7 @@
 - [VOAPROP](http://www.g4ilo.com/voaprop.html)
 - [DxLook](https://dxlook.com/)
 - [HF MUF](https://prop.kc2g.com) *
+- [CT1BOH Propagation Index](https://qsl.net/ct1boh/propindex1.html) *
 - [Smith-Chart](https://www.fritz.dellsperger.net/smith.html)
 - [SimNEC](https://www.ae6ty.com/smith_charts/)
 - [MMana-Gal](http://gal-ana.de/)
