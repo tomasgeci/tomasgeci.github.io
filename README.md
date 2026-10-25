@@ -295,3 +295,4 @@
 - [DX patrol (CT)](https://dxpatrol.pt/shop/)
 - [RF-MICROWAVE (IT)](https://www.rf-microwave.com/en/home/)
 - [JANI ELECTRONICS (HA)](https://janielectronics.com/index.php?route=product/category&language=en-gb&path=61)
+- [TINO'S FUNKSHOP (DL)](https://www.tinos-funkshop.de/)
