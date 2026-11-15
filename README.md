@@ -170,6 +170,7 @@
 - [Amsat On-line prediction](http://www.amsat.org/track/index.php)
 - [DK3WN Satellite status](http://www.dk3wn.info/p/?page_id=29535)
 - [Satellite tracking site](http://www.n2yo.com/?s=40967)
+- [SatTracker Boscolab](https://sattracker.boscolab.de/)
 - [Amsat satellite list](https://www.amsat.org/two-way-satellites/)
 - [Amsat status](http://www.amsat.org/status/)
 - [Heavens Above](http://heavens-above.com/AmateurSats.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT)
