@@ -205,7 +205,7 @@
 - [kmitocty.cz](https://kmitocty.cz/)
 - [Crimping connectors guide](https://www.mattmillman.com/info/crimpconnectors/)
 - [DLARC archive](https://archive.org/details/dlarc?tab=collection)
-- [Blogs Radio](https://blogs.radio/i/?rid=65059b04695de)
+- [Blogs Radio](https://blogs.radio/)
 - [contests live](http://contest.run/#/)
 - [Olivia](https://oliviadigitalmode.org/)
 - [VARA Modem](https://varamodem.com/)
