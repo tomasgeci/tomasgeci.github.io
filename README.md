@@ -117,6 +117,7 @@
 - [PSKreporter](https://www.pskreporter.info/pskmap.html)
 - [WSPRNET](https://www.wsprnet.org/drupal/wsprnet/map)
 - [AirScout](http://airscout.eu/index.php)
+- [OK1CDJ Path Profile](https://profile.ok1cdj.com/)
 - [HAM DX Map](https://dxmap.f5uii.net/#)
 - [ADIF-to-QSL-label](https://github.com/s53zo/ADIF-to-QSL-label)
 - [ADIF-to-QSL-label web](https://s53zo.github.io/ADIF-to-QSL-label/make_qsl_labels.html)
@@ -184,6 +185,7 @@
   - [QO-100 WebSDR Cornwall](https://eshail.batc.org.uk/nb/)
   - [QO-100 WebSDR IS0GRB](http://websdr.is0grb.it:8901/)
   - [QO-100 ADIF log parser](https://qo100.sq8w.pl/?lang=en)
+  - [QO-100 OK1CDJ](https://qo100.ok1cdj.com/)
 
 ### Unsorted
 - [QSL Info](https://www.qslinfo.de/)
